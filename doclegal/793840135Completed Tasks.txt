@@ -1,0 +1,18 @@
+--Complainer Registration
+--Complainer Login
+
+###COMPLAINER###
+--Change Password
+--Update Profile
+--Register a Complaint
+--COMPLAINT LETTER PRINT
+--View Complaint
+
+###COP###
+-- Dashboard
+
+Station
+-- Add Cop
+-- View Cop
+-- Add Designation
+-- View Designation
