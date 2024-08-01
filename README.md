@@ -34,43 +34,6 @@
 - **Access Control:** Implement strict access control mechanisms to prevent unauthorized access to sensitive information.
 - **Regular Audits:** Conduct regular security audits to identify and address potential vulnerabilities.
 
-## Installation
-
-### Prerequisites
-
-- **Node.js:** Ensure you have Node.js and npm (Node Package Manager) installed on your machine. [Download Node.js](https://nodejs.org/)
-- **Database:** Set up a compatible database (e.g., MongoDB, PostgreSQL). Ensure the database service is running.
-- **Web Server:** A web server like Apache or Nginx may be required for production deployment.
-
-### Installation Steps
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/rakshya.git
-   cd rakshya
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Configure Environment Variables:**
-   Create a `.env` file in the root directory and populate it with the necessary environment variables. Refer to `.env.example` for the required variables and their descriptions.
-
-4. **Run Database Migrations (if applicable):**
-   ```bash
-   npm run migrate
-   ```
-
-5. **Start the Application:**
-   ```bash
-   npm start
-   ```
-
-6. **Access the Application:**
-   Open your web browser and go to `http://localhost:3000` (or the port specified in your `.env` file) to access the RAKSHYA platform.
-
 ## Usage
 
 ### Register and Login
